@@ -1,1 +1,1 @@
-Teste de commit pelo github
+Teste de commit pelo github com merge
